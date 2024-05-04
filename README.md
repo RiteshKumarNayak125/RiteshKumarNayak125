@@ -1,6 +1,6 @@
 #### 💫 About Me:
 A software developer passionate about crafting clean, efficient code. Proficient in C++ , Python , Cloud and Devops , I love tackling challenges and collaborating with teams to build impactful solutions. When I'm not coding, I enjoy exploring tech trends and diving into software architecture books. Let's connect and create something awesome!<br><br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ritesh#0131) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritvz11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-nayak-6245a1240) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RiteshNaya49092) 
