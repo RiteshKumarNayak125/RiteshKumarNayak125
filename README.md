@@ -50,24 +50,17 @@
 <a href="https://www.linkedin.com/in/YourProfile">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
 </a>
-
 <a href="https://github.com/YourProfile">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" />
 </a>
-
 <a href="mailto:youremail@example.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
 </a>
-
 <a href="https://instagram.com/YourHandle">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
 </a>
-
 <a href="https://x.com/YourHandle">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="40" />
 </a>
-
 </p>
-
-  
 </p>
