@@ -46,10 +46,28 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.ritvz.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/riteshnayak125/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ritesh4u2020@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/fknritvz"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://x.com/Riteshnaya49092"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Twitter&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/YourProfile">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
+</a>
+
+<a href="https://github.com/YourProfile">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" />
+</a>
+
+<a href="mailto:youremail@example.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
+</a>
+
+<a href="https://instagram.com/YourHandle">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
+</a>
+
+<a href="https://x.com/YourHandle">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="40" />
+</a>
+
+</p>
+
   
 </p>
