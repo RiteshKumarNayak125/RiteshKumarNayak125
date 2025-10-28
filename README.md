@@ -40,6 +40,11 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
+![Automation](https://img.shields.io/badge/-Automation-05122A?style=flat&logo=gear&logoColor=white)&nbsp;
+![Prisma Cloud](https://img.shields.io/badge/-Prisma%20Cloud-05122A?style=flat&logo=palo-alto-networks&logoColor=39FF14)&nbsp;
+![Asana](https://img.shields.io/badge/-Asana-05122A?style=flat&logo=asana)&nbsp;
+![Cortex XDR](https://img.shields.io/badge/-Cortex%20XDR-05122A?style=flat&logo=palo-alto-networks&logoColor=00FFB7)&nbsp;
+![SOAR](https://img.shields.io/badge/-Security%20Orchestration-05122A?style=flat&logo=securityscorecard&logoColor=white)&nbsp;
 
 
 ### 🤝🏻 &nbsp;Connect with Me
