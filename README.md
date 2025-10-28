@@ -41,6 +41,19 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+![Palo Alto Networks](https://img.shields.io/badge/-Palo%20Alto%20Networks-05122A?style=flat&logo=palo-alto-networks)&nbsp;
+![Prisma Access](https://img.shields.io/badge/-Prisma%20Access-05122A?style=flat&logo=palo-alto-networks&logoColor=39FF14)&nbsp;
+![Zscaler](https://img.shields.io/badge/-Zscaler-05122A?style=flat&logo=zscaler)&nbsp;
+![Netskope](https://img.shields.io/badge/-Netskope-05122A?style=flat&logo=netskope&logoColor=00A9E0)&nbsp;
+![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=cisco)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=burp-suite)&nbsp;
+![OWASP](https://img.shields.io/badge/-OWASP-05122A?style=flat&logo=owasp)&nbsp;
+![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;
+![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
 
 
 ### 🤝🏻 &nbsp;Connect with Me
