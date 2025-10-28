@@ -44,23 +44,10 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
+### Connect with me 🌐  
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YourProfile">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
-</a>
-<a href="https://github.com/YourProfile">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" />
-</a>
-<a href="mailto:youremail@example.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
-</a>
-<a href="https://instagram.com/YourHandle">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
-</a>
-<a href="https://x.com/YourHandle">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="40" />
-</a>
-</p>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
