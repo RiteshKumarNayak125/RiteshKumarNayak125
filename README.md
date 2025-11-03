@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore cybersecurity and build automated security workflows and practical solutions.\
-🎓 &nbsp; I'm currently working as a Cyber Security Engineer at ACPL Systems, focusing on Zscaler, Netskope , Palo Alto NGFW, and Prisma SASE.\
+🎓 &nbsp; I'm currently working as a Cyber Security Engineer at ACPL Systems, focusing on Zscaler, Netskope , Palo Alto NGFW, and Prisma .\
 🌱 &nbsp;I'm on track for learning more about Cloud Security, DevSecOps, and AI-powered Security Automation.\
 ✍️ &nbsp;In my free time, I participate in Bug Bounty, explore real-world vulnerabilities, and contribute to security projects.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
